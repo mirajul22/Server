@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "category": "men's casual",
+        "title": "Casual Canvas Shoes",
+        "price": 39.99,
+        "mrp": 49.99,
+        "color": "black"
+    },
+    {
+        "id": 2,
+        "category": "women's sports",
+        "title": "Running Shoes",
+        "price": 59.99,
+        "mrp": 69.99,
+        "color": "blue"
+    },
+    {
+        "id": 3,
+        "category": "men's formal",
+        "title": "Leather Dress Shoes",
+        "price": 79.99,
+        "mrp": 89.99,
+        "color": "brown"
+    },
+    {
+        "id": 4,
+        "category": "women's casual",
+        "title": "Slip-on Sneakers",
+        "price": 44.99,
+        "mrp": 54.99,
+        "color": "red"
+    },
+    {
+        "id": 5,
+        "category": "men's sports",
+        "title": "Basketball Shoes",
+        "price": 89.99,
+        "mrp": 99.99,
+        "color": "white"
+    },
+    {
+        "id": 6,
+        "category": "women's formal",
+        "title": "High Heel Pumps",
+        "price": 69.99,
+        "mrp": 79.99,
+        "color": "black"
+    },
+    {
+        "id": 7,
+        "category": "men's boots",
+        "title": "Hiking Boots",
+        "price": 109.99,
+        "mrp": 119.99,
+        "color": "green"
+    },
+    {
+        "id": 8,
+        "category": "women's boots",
+        "title": "Winter Snow Boots",
+        "price": 79.99,
+        "mrp": 89.99,
+        "color": "blue"
+    },
+    {
+        "id": 9,
+        "category": "men's sandals",
+        "title": "Flip Flops",
+        "price": 19.99,
+        "mrp": 29.99,
+        "color": "yellow"
+    },
+    {
+        "id": 10,
+        "category": "women's sandals",
+        "title": "Strappy Sandals",
+        "price": 54.99,
+        "mrp": 64.99,
+        "color": "pink"
+    }
+]
